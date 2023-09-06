@@ -423,7 +423,6 @@ html[data-w-dynpage] [data-w-cloak] {
     visibility: visible !important;
     z-index: 2147483647 !important;
     top: auto !important;
-   
     bottom: 0px !important;
     color: #AAADB0 !important;
     background-color: #ffffff !important;
@@ -435,8 +434,6 @@ html[data-w-dynpage] [data-w-cloak] {
     text-decoration: none !important;
     transform: none !important;
     margin: 0 !important;
-    width: 1550px;
-   
     overflow: visible !important;
     white-space: nowrap;
     box-shadow: 0px 3px 15px rgba(31, 31, 31, 0.5);
@@ -2454,9 +2451,9 @@ body {
     margin-bottom: 0px;
     font-family: Generalsans, sans-serif;
     color: #050505;
-    font-size: 72px;
+    font-size: 58px;
     line-height: 82px;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .banner-details-wrapper {
