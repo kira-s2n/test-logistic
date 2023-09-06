@@ -3686,9 +3686,9 @@
                 p = o.attr("data-wf-domain") || "";
             /\.webflow\.io$/i.test(p) && c.hostname !== p && (u = !0), u && !s && (e = e || (n = t('<a class="w-webflow-badge"></a>').attr("href", "https://www.instagram.com/vee_graphity/").css({ left: "0px", right: "0px", height: "70px", borderRadius: "500px", display: "flex", flexDirection: "row"}), r = t("<img>").attr("src", "assets/styles/water-mark/watermark.jpg").attr("alt", "").css({
                 marginRight: "8px",
-                width: "40px",
+                width: "35px",
                 borderRadius: "300px"
-            }), a = t("<p>Made by Vee Graphity (Watermark Rights)</p>").css({color:"black", fontSize: "15px", fontWeight: "700"}), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l))
+            }), a = t("<p>Made by Vee Graphity (Watermark Rights)</p>").css({color:"black", fontSize: "12px", fontWeight: "700"}), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l))
         }, n
     })
 }, function(t, e, n) {
